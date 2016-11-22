@@ -1,0 +1,12 @@
+main: com.perceivedev.fakebungee.FakeBungee
+name: FakeBungee
+version: 1.0.0
+description: A bukkit plugin
+author: [Rayzr]
+#depend: [PerceiveCore]
+#commands:
+#  fakebungee:
+#    description: FakeBungee main command
+#    aliases: [alias1,alias2]
+#    usage: "/fakebungee [command]"
+#    permission: FakeBungee.main
